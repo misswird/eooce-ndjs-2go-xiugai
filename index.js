@@ -4,12 +4,12 @@ const intervalInseconds = process.env.TIME || 120;
 const UUID = process.env.UUID || '89c13786-25aa-4520-b2e7-12cd60fb5202';
 const NZ_SERVER = process.env.NZ_SERVER || 'nezha.hani.nyc.mn';
 const NZ_PORT = process.env.NZ_PORT || '443';
-const NZ_KEY = process.env.NZ_KEY || '';
+const NZ_KEY = process.env.NZ_KEY || 'HGG1okPER3FixPo714';
 const AG_DOMAIN = process.env.AG_DOMAIN || 'hf-cs.for-me.ggff.net';
 const AG_AUTH = process.env.AG_AUTH || 'eyJhIjoiZTc0ZGRiNzg1N2E4NTI2NjM5M2NlYzM5ZDI1ZTllYWEiLCJ0IjoiMGJiMWQ4ZGMtMTQwMy00NDYxLThlNzYtZmM5MGQ0NmRiMjlkIiwicyI6Ik9UVTNNalExTnpFdE5HRXlZUzAwTXprNUxXRTJNVFV0T1daa09UYzNPRFkzTjJNMiJ9';
 const CFIP = process.env.CFIP || 'www.visa.com.tw';
 const CFPORT = process.env.CFPORT || 443;
-const NAME = process.env.NAME || 'Vls';
+const NAME = process.env.NAME || 'HF';
 const ARGO_PORT = process.env.ARGO_PORT || 8080;
 const PORT = process.env.SERVER_PORT || process.env.PORT || 7860;
 
